@@ -10,11 +10,13 @@ Amazon will no longer be offering downloads for kindle book purchases made after
 
 - this script is only tested in the latest Google Chrome
 - you MUST have a physical device capable of usb transfer or you won't have the `More Actions` option to `download & transfer via USB`
-- this script assumes you're using english
+- this script assumes you're using english as your prefered language
 
 ## How to use this script
 
-- Navigate to dist > bundle.js > copy the contents
+- Within this repo, navigate to dist > bundle.js > copy the contents
+  - or click [here](https://github.com/arrtie/download-my-kindle-ebooks/blob/main/dist/bundle.js)
+- copy the contents of the file
 - Log into your Amazon account
 - open your digital books library at [this url](https://www.amazon.com/hz/mycd/digital-console/contentlist/booksPurchases/dateDsc?pageNumber=1)
   - or from the header select the `Accounts & Lists` menu > click `Content Library` > `Books`
